@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">👋 Burak Güldiken</h1>
+<h3 align="center">Hello, I'm Burak Güldiken, I'm doing improvements on the backend and frontend side. I usually use vue.js, javascript, html, css technologies on the frontend side. On the backend side, I use .net core.
+</h3>
 
-<!--
-**burakguldiken-dev/burakguldiken-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakguldiken" alt="burakguldiken" /> </p>
 
-Here are some ideas to get you started:
+- 💬 Ask me about **.net, .net core, vue.js, rabbitmq, redis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## For My Medium Stories : [Medium Link](https://burakguldiken1.medium.com/)
+
+## For My Portfolio : [Portfolio](https://burakguldiken.github.io/)
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakguldiken&layout=compact" alt="burakguldiken" /></p>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=burakguldiken&show_icons=true" alt="burakguldiken" /></p>
